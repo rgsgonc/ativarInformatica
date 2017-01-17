@@ -13,7 +13,7 @@ require_once("phpmailer/class.phpmailer.php");
 
 /* Definir Usuário e Senha do Gmail de onde partirá os emails*/
 define('GUSER', 'rgs.gonc@gmail.com'); 
-define('GPWD', 'Rrg018nm*');
+define('GPWD', '****');
 
 function smtpmailer($para, $de, $nomeDestinatario, $assunto, $corpo) { 
 	global $error;
