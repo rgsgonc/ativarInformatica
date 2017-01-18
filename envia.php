@@ -1,21 +1,22 @@
 <?php
 /* Recuperar os Dados do Formulário de Envio*/
-$nome	= $_POST["nome"];
+$nome		= $_POST["nome"];
 $telefone	= $_POST["telefone"];
-$email	= $_POST["email"];
-$mensagem    = $_POST["mensagem"];
+$email		= $_POST["email"];
+$mensagem   = $_POST["mensagem"];
+
 
 /* Montar o corpo do email*/
-$corpoMensagem 		= "<b>Nome:</b> ".$nome." <br><b>Telefone:</b> ".$telefone."<br><b>Mensagem:</b> ".$mensagem;
+$corpoMensagem 	= "<b>Nome:</b> ".$nome." <br><b>Telefone:</b> ".$telefone."<br><b>Mensagem:</b> ".$mensagem;
 
 /* Extender a classe do phpmailer para envio do email*/
-require_once("phpmailer/class.phpmailer.php");
+require_once("PHPMailerAutoload.php");
 
-/* Definir Usuário e Senha do Gmail de onde partirá os emails*/
-define('GUSER', 'rgs.gonc@gmail.com'); 
-define('GPWD', '****');
+//  Informa a senha do email que tu vai usar como destino 
+define('GUSER', 'welitonderesende@gmail.com');
+define('GPWD', '');
 
-function smtpmailer($para, $de, $nomeDestinatario, $assunto, $corpo) { 
+function smtpmailer($para, $de, $nomeDestinatario, $assunto, $corpo) {
 	global $error;
 	$mail = new PHPMailer();
 	/* Montando o Email*/
@@ -35,7 +36,7 @@ function smtpmailer($para, $de, $nomeDestinatario, $assunto, $corpo) {
 
 	/* Função Responsável por Enviar o Email*/
 	if(!$mail->Send()) {
-		$error = "<font color='red'><b>Mail error: </b></font>".$mail->ErrorInfo; 
+		$error = "<font color='red'><b>Mail error: </b></font>".$mail->ErrorInfo;
 		return false;
 	} else {
 		$error = "<font color='blue'><b>Mensagem enviada com Sucesso!</b></font>";
@@ -43,9 +44,9 @@ function smtpmailer($para, $de, $nomeDestinatario, $assunto, $corpo) {
 	}
 }
 
-/* Passagem dos parametros: email do Destinatário, email do remetende, nome do remetente, assunto, mensagem do email.*/
- if (smtpmailer($email, 'rgs.gonc@gmail.com', $nome, $telefone, $corpoMensagem)) {
-	 Header("location: sucesso.php"); // Redireciona para uma página de Sucesso.
+//Muda o primeiro parametro, ele será o email de destino
+if (smtpmailer('welitonderesende@gmail.com', $email, $nome, $telefone, $corpoMensagem)) {
+	Header("location: sucesso.php"); // Redireciona para uma página de Sucesso.
 }
 if (!empty($error)) echo $error;
 ?>

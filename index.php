@@ -10,7 +10,7 @@
     <meta name="description" content="Ativar Informática">
     <meta name="keywords" content="portfolio, agency, bootstrap theme, mobile responsive, template, personal">
     <meta name="author" content="Ativar Informática">
-    
+
     <!-- Favicons
     ================================================== -->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
@@ -52,7 +52,7 @@
   </head>
   <body>
 
-    <!-- Main Navigation 
+    <!-- Main Navigation
     ================================================== -->
     <nav id="tf-menu" class="navbar navbar-default navbar-fixed-top">
         <div class="container">
@@ -103,11 +103,11 @@
         <div class="container"> <!-- container -->
             <div class="row"> <!-- row -->
 
-                <div class="col-md-8 col-md-offset-2"> 
+                <div class="col-md-8 col-md-offset-2">
                     <!--<img src="img/logo-w.png" class="intro-logo img-responsive" alt="free-template"> <!-- Your company logo in white -->
                     <p align="justify">A Ativar Informática foi fundada através de uma paixão em informática. Estamos sempre buscando a melhor forma de inovar e trazer o uso da tecnologia de forma que traga benefícios positivos no nosso cotidiano. Pensando nisso, sempre buscamos soluções que se adequem da melhor forma com a sua necessidade. É sempre um prazer tê-lo como cliente.</p>
                 </div>
-                
+
             </div><!-- end row -->
         </div><!-- end container -->
     </div>
@@ -124,7 +124,7 @@
             </div>
 
             <div class="row"> <!-- row -->
-                
+
                 <div class="col-md-6 text-right">  <!-- Left Content Col 6 -->
                     <div class="media service"> <!-- Service #1 -->
                         <div class="media-body">
@@ -188,7 +188,7 @@
                         </div>
                     </div> <!-- end Service #6 -->
                 </div><!-- end Right Content Col 6 -->
-                
+
             </div><!-- end row -->
 
         </div><!-- end container -->
@@ -215,9 +215,9 @@
                             <div class="img-wrap"> <!-- profile image wrap -->
                                 <div class="profile-img"> <!-- company profile details -->
                                     <img src="img/sobre.png" class="img-responsive" alt="Image"> <!-- change link to your image for your company profile -->
-                                    <ul class="list-inline social"> 
+                                    <ul class="list-inline social">
                                         <li><a href="http://www.facebook.com.br/ativarinformatica" target="_blank" class="fa fa-facebook"></a></li> <!-- facebook link here -->
-                                        <!--<li><a href="#" class="fa fa-twitter"></a></li> 
+                                        <!--<li><a href="#" class="fa fa-twitter"></a></li>
                                         <li><a href="#" class="fa fa-google-plus"></a></li> -->
                                     </ul>
                                 </div>
@@ -231,9 +231,9 @@
 
                             <h4><strong>Sobre nós</strong></h4>
                             <p align="justify">A Ativar Informática foi fundada através de uma paixão em informática. Estamos sempre buscando a melhor forma de inovar e trazer o uso da tecnologia de forma que traga benefícios positivos no nosso cotidiano. Pensando nisso, sempre buscamos soluções que se adequem da melhor forma com a sua necessidade. É sempre um prazer tê-lo como cliente.</p>
-                            
+
                             <!--
-                            <div class="skills"> 
+                            <div class="skills">
                                 <div class="skillset">
                                     <p>UI/UX Design</p>
                                     <div class="progress">
@@ -243,7 +243,7 @@
                                     </div>
                                 </div>
 
-                                <div class="skillset"> 
+                                <div class="skillset">
                                     <p>HTML5, CSS3, SASS</p>
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
@@ -252,23 +252,23 @@
                                     </div>
                                 </div>
 
-                                <div class="skillset"> 
+                                <div class="skillset">
                                     <p>WordPress</p>
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" aria-valuenow="99" aria-valuemin="0" aria-valuemax="100" style="width: 99%;">
                                             <span class="sr-only">99% Complete</span>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
 
-                                <div class="skillset"> 
+                                <div class="skillset">
                                     <p>Graphic Design</p>
                                     <div class="progress">
                                         <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width: 70%;">
                                             <span class="sr-only">70% Complete</span>
                                         </div>
                                     </div>
-                                </div> 
+                                </div>
 
                                 <div class="skillset">
                                     <p>Marketing</p>
@@ -278,7 +278,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div> 
+                            </div>
                             -->
 
                         </div><!-- end right content wrapper -->
@@ -291,14 +291,14 @@
                 <div class="container">
                     <div class="row"> <!-- Row -->
 
-                        <div class="counter"> 
+                        <div class="counter">
 
                           <div class="col-xs-6 col-sm-4 col-md-2 col-md-2 col-md-offset-1 facts"><!-- counter #1 -->
-                            <div class="count-box"> 
+                            <div class="count-box">
                                 <i class="fa fa-thumbs-up"></i>
                                 <h4 class="count">575</h4>
                                 <p class="small">Nossas curtidas</p>
-                            </div> 
+                            </div>
                           </div><!-- end counter #1 -->
 
                           <div class="col-xs-6 col-sm-4 col-md-2 facts"><!-- counter #2 -->
@@ -317,7 +317,7 @@
                             </div>
                           </div>
 
-                          <div class="col-xs-6 col-sm-4 col-md-2 facts"> 
+                          <div class="col-xs-6 col-sm-4 col-md-2 facts">
                             <div class="count-box">
                               <i class="fa fa-cogs"></i>
                               <h4 class="count">56</h4>
@@ -325,7 +325,7 @@
                             </div>
                           </div>
 
-                          <div class="col-xs-6 col-sm-4 col-md-2 facts"> 
+                          <div class="col-xs-6 col-sm-4 col-md-2 facts">
                             <div class="count-box last">
                               <i class="fa fa-github"></i>
                               <h4 class="count">0</h4>
@@ -343,110 +343,110 @@
     </div>
 
     <!-- Team Section
-    
+
     <div id="tf-team">
-        <div class="container"> 
+        <div class="container">
             <div class="section-header">
                 <h2>Awesome People Behind <span class="highlight"><strong>ethanol</strong></span></h2>
                 <h5><em>We design and build functional and beautiful websites</em></h5>
                 <div class="fancy"><span><img src="img/favicon.ico" alt="..."></span></div>
             </div>
 
-             <div id="team" class="owl-carousel owl-theme text-center"> 
+             <div id="team" class="owl-carousel owl-theme text-center">
 
                 <div class="item">
-                    <div class="hover-bg"> 
-                        <div class="hover-text off"> 
+                    <div class="hover-bg">
+                        <div class="hover-text off">
                             <p>Aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditullam ut ligula et neque. Quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies.</p>
                         </div>
                         <img src="img/team/01.jpg" alt="..." class="img-responsive">
                         <div class="team-detail text-center">
                             <h3>Maria Shara</h3>
                             <p class="text-uppercase">Founder / CEO</p>
-                            <ul class="list-inline social"> 
-                                <li><a href="#" class="fa fa-facebook"></a></li> 
-                                <li><a href="#" class="fa fa-twitter"></a></li> 
-                                <li><a href="#" class="fa fa-google-plus"></a></li> 
+                            <ul class="list-inline social">
+                                <li><a href="#" class="fa fa-facebook"></a></li>
+                                <li><a href="#" class="fa fa-twitter"></a></li>
+                                <li><a href="#" class="fa fa-google-plus"></a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
 
-                <div class="item"> 
-                    <div class="hover-bg"> 
-                        <div class="hover-text off"> 
+                <div class="item">
+                    <div class="hover-bg">
+                        <div class="hover-text off">
                             <p>Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies. Aliquet rutrum dui a varius. Mauris ornare tortor.</p>
-                        </div> 
+                        </div>
                         <img src="img/team/02.jpg" alt="..." class="img-responsive">
                         <div class="team-detail text-center">
                             <h3>Jenn Pereira</h3>
                             <p class="text-uppercase">Senior Creative Director</p>
-                            <ul class="list-inline social"> 
-                                <li><a href="#" class="fa fa-facebook"></a></li> 
-                                <li><a href="#" class="fa fa-twitter"></a></li> 
-                                <li><a href="#" class="fa fa-google-plus"></a></li> 
-                            </ul>
-                        </div>
-                    </div> 
-                </div>
-
-                <div class="item"> 
-                    <div class="hover-bg">
-                        <div class="hover-text off"> 
-                            <p>Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditullam ut ligula et neque. Nec bibendum erat volutpat ultricies. Aliquet rutrum dui a varius. Mauris ornare tortor. </p>
-                        </div> 
-                        <img src="img/team/01.jpg" alt="..." class="img-responsive">
-                        <div class="team-detail text-center">
-                            <h3>Serena William</h3>
-                            <p class="text-uppercase">Senior Designer</p>
-                            <ul class="list-inline social"> 
-                                <li><a href="#" class="fa fa-facebook"></a></li> 
-                                <li><a href="#" class="fa fa-twitter"></a></li> 
-                                <li><a href="#" class="fa fa-google-plus"></a></li> 
+                            <ul class="list-inline social">
+                                <li><a href="#" class="fa fa-facebook"></a></li>
+                                <li><a href="#" class="fa fa-twitter"></a></li>
+                                <li><a href="#" class="fa fa-google-plus"></a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
 
                 <div class="item">
-                    <div class="hover-bg"> 
-                        <div class="hover-text off"> 
-                            <p>Aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditullam ut ligula et neque. Quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies.</p>
+                    <div class="hover-bg">
+                        <div class="hover-text off">
+                            <p>Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditullam ut ligula et neque. Nec bibendum erat volutpat ultricies. Aliquet rutrum dui a varius. Mauris ornare tortor. </p>
                         </div>
-                        <img src="img/team/01.jpg" alt="..." class="img-responsive"> 
+                        <img src="img/team/01.jpg" alt="..." class="img-responsive">
                         <div class="team-detail text-center">
-                            <h3>Maria Shara</h3>
-                            <p class="text-uppercase">Founder / CEO</p>
-                            <ul class="list-inline social"> 
-                                <li><a href="#" class="fa fa-facebook"></a></li> 
-                                <li><a href="#" class="fa fa-twitter"></a></li> 
-                                <li><a href="#" class="fa fa-google-plus"></a></li> 
+                            <h3>Serena William</h3>
+                            <p class="text-uppercase">Senior Designer</p>
+                            <ul class="list-inline social">
+                                <li><a href="#" class="fa fa-facebook"></a></li>
+                                <li><a href="#" class="fa fa-twitter"></a></li>
+                                <li><a href="#" class="fa fa-google-plus"></a></li>
                             </ul>
                         </div>
-                    </div> 
+                    </div>
                 </div>
 
                 <div class="item">
-                    <div class="hover-bg"> 
-                        <div class="hover-text off"> 
+                    <div class="hover-bg">
+                        <div class="hover-text off">
+                            <p>Aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditullam ut ligula et neque. Quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies.</p>
+                        </div>
+                        <img src="img/team/01.jpg" alt="..." class="img-responsive">
+                        <div class="team-detail text-center">
+                            <h3>Maria Shara</h3>
+                            <p class="text-uppercase">Founder / CEO</p>
+                            <ul class="list-inline social">
+                                <li><a href="#" class="fa fa-facebook"></a></li>
+                                <li><a href="#" class="fa fa-twitter"></a></li>
+                                <li><a href="#" class="fa fa-google-plus"></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <div class="hover-bg">
+                        <div class="hover-text off">
                             <p>Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies. Aliquet rutrum dui a varius. Mauris ornare tortor.</p>
-                        </div> 
-                        <img src="img/team/02.jpg" alt="..." class="img-responsive"> 
+                        </div>
+                        <img src="img/team/02.jpg" alt="..." class="img-responsive">
                         <div class="team-detail text-center">
                             <h3>Jenn Pereira</h3>
                             <p class="text-uppercase">Senior Creative Director</p>
-                            <ul class="list-inline social"> 
-                                <li><a href="#" class="fa fa-facebook"></a></li> 
-                                <li><a href="#" class="fa fa-twitter"></a></li> 
-                                <li><a href="#" class="fa fa-google-plus"></a></li> 
+                            <ul class="list-inline social">
+                                <li><a href="#" class="fa fa-facebook"></a></li>
+                                <li><a href="#" class="fa fa-twitter"></a></li>
+                                <li><a href="#" class="fa fa-google-plus"></a></li>
                             </ul>
                         </div>
-                    </div> 
+                    </div>
                 </div>
 
-            </div> 
+            </div>
 
-        </div> 
+        </div>
     </div>================================================== -->
 
     <!-- Why Us/Features Section
@@ -524,7 +524,7 @@
                                 <p>Seu site também em Smartphones e Tablets
                                     Desenvolvemos projetos web utilizando a tecnologia responsiva que garante a melhor visualização de seu website nos principais Smartphones e Tablets.
                                     Nos dias de hoje, além de ser essencial toda empresa ter um website na internet independente do ramo de atividade, é necessário ter um projeto muito bem planejado, com uma criação de layout diferenciada e superior à concorrência, conteúdo relevante, objetivo, e que seja fácil de se encontrar as informações necessárias.
-                                    Com o crescente uso do celular, smartphones e tablets na internet, um site hoje tem que estar preparado para ser visualizado através desses dispositivos móveis. Foi-se o tempo em que um site era desenvolvido exclusivamente para ser visualizado no micro. A tendência será a utilização cada vez maior dos dispositivos móveis, portanto, o site de sua empresa tem que estar preparado e atualizado com as tendências atuais do mercado.    
+                                    Com o crescente uso do celular, smartphones e tablets na internet, um site hoje tem que estar preparado para ser visualizado através desses dispositivos móveis. Foi-se o tempo em que um site era desenvolvido exclusivamente para ser visualizado no micro. A tendência será a utilização cada vez maior dos dispositivos móveis, portanto, o site de sua empresa tem que estar preparado e atualizado com as tendências atuais do mercado.
                                     </p>
                                 <img src="img/tab04.png" class="img-responsive" alt="...">
                             </div>
@@ -568,20 +568,20 @@
              <div id="itemsWork" class="row text-center"> <!-- Portfolio Wrapper Row -->
 
                 <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 nopadding web"> <!-- Works #1 col 3 -->
-                    <div class="box"> 
+                    <div class="box">
                         <div class="hover-bg">
                             <div class="hover-text off">
                                 <a title="Loja AKA Store" href="img/portfolio/01@2xa.jpg" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/portfolio/01@2xa.jpg">
                                     <i class="fa fa-expand"></i>
                                 </a>
                                 <a href="http://www.akastore.com.br"><i class="fa fa-chain"></i></a> <!-- change # with your url to link it to another page -->
-                            </div> 
+                            </div>
                             <img src="img/portfolio/01a.jpg" class="img-responsive" alt="Image"> <!-- Portfolio Image -->
                         </div>
                     </div>
                 </div><!-- end Works #1 col 3 -->
 
-                <!--<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 nopadding apps"> 
+                <!--<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 nopadding apps">
                     <div class="box">
                         <div class="hover-bg">
                             <div class="hover-text off">
@@ -604,12 +604,12 @@
                                 </a>
                                 <a href="#"><i class="fa fa-chain"></i></a>
                             </div>
-                            <img src="img/portfolio/03a.jpg" class="img-responsive" alt="Image"> 
+                            <img src="img/portfolio/03a.jpg" class="img-responsive" alt="Image">
                         </div>
                     </div>
                 </div>-->
 
-                <!--<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 nopadding others web"> 
+                <!--<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 nopadding others web">
                     <div class="box">
                         <div class="hover-bg">
                             <div class="hover-text off">
@@ -618,12 +618,12 @@
                                 </a>
                                 <a href="#"><i class="fa fa-chain"></i></a>
                             </div>
-                            <img src="img/portfolio/04.jpg" class="img-responsive" alt="Image"> 
+                            <img src="img/portfolio/04.jpg" class="img-responsive" alt="Image">
                         </div>
                     </div>
                 </div> -->
 
-                <!--<div class="col-xs-12 col-sm-6 col-md-3 nopadding web others"> 
+                <!--<div class="col-xs-12 col-sm-6 col-md-3 nopadding web others">
                     <div class="box">
                         <div class="hover-bg">
                             <div class="hover-text off">
@@ -632,12 +632,12 @@
                                 </a>
                                 <a href="#"><i class="fa fa-chain"></i></a>
                             </div>
-                            <img src="img/portfolio/05.jpg" class="img-responsive" alt="Image"> 
+                            <img src="img/portfolio/05.jpg" class="img-responsive" alt="Image">
                         </div>
                     </div>
                 </div> -->
 
-                <div class="col-xs-12 col-sm-6 col-md-3 nopadding app">  
+                <div class="col-xs-12 col-sm-6 col-md-3 nopadding app">
                     <div class="box">
                         <div class="hover-bg">
                             <div class="hover-text off">
@@ -646,7 +646,7 @@
                                 </a>
                                 <a href="http://www.akastore.com.br"><i class="fa fa-chain"></i></a>
                             </div>
-                            <img src="img/portfolio/02a.jpg" class="img-responsive" alt="Image"> 
+                            <img src="img/portfolio/02a.jpg" class="img-responsive" alt="Image">
                         </div>
                     </div>
                 </div>
@@ -660,13 +660,13 @@
                                 </a>
                                 <a href="http://www.facebook.com/dj.bielsantoss" target="_blank"><i class="fa fa-chain"></i></a>
                             </div>
-                            <img src="img/portfolio/djbiel1-miniatura.jpg" class="img-responsive" alt="Image"> 
+                            <img src="img/portfolio/djbiel1-miniatura.jpg" class="img-responsive" alt="Image">
                         </div>
                     </div>
                 </div>
 
-                <div class="col-xs-12 col-sm-6 col-md-3 nopadding brand"> 
-                    <div class="box"> 
+                <div class="col-xs-12 col-sm-6 col-md-3 nopadding brand">
+                    <div class="box">
                         <div class="hover-bg">
                             <div class="hover-text off">
                                 <a title="DJ Biel" href="img/portfolio/djbiel2.jpg" data-lightbox-gallery="gallery1" data-lightbox-hidpi="img/portfolio/08@2x.jpg">
@@ -674,11 +674,11 @@
                                 </a>
                                 <a href="http://www.facebook.com/dj.bielsantoss" target="_blank"><i class="fa fa-chain"></i></a>
                             </div>
-                            <img src="img/portfolio/djbiel2-miniatura.jpg" class="img-responsive" alt="Image"> 
-                        </div> 
+                            <img src="img/portfolio/djbiel2-miniatura.jpg" class="img-responsive" alt="Image">
+                        </div>
                     </div>
-                </div> 
-                
+                </div>
+
             </div> <!-- End Row -->
 
         </div> <!-- End Container-Fluid -->
@@ -741,7 +741,7 @@
                                 <p align="justify">Está sem tempo para vir até nós? A Ativar Informática disponibiliza um serviço de recolha e entrega dos equipamentos, trazendo para o nosso cliente maior comodidade e satisfação. * Regiões de atendimento sob consulta.</p>
                             </div>
                         </div><!-- Process #4 -->
-                        
+
                     </div>
 
                 </div> <!-- end row -->
@@ -766,10 +766,10 @@
                         <div class="col-md-4 nopadding"><!-- Price table #1 -->
                             <div class="panel panel-default price"> <!-- pricing table wrapper -->
                                 <div class="panel-heading">Formatação completa</div>
-                                
+
 								<!--
 								<div class="panel-body">
-                                    <h1><sup>R$</sup>60<small>,00</small></h1> 
+                                    <h1><sup>R$</sup>60<small>,00</small></h1>
                                 </div>
 								 Plan Price -->
 
@@ -818,10 +818,10 @@
                         <div class="col-md-4 nopadding"> <!-- Price table #3 -->
                             <div class="panel panel-default price"> <!-- pricing table wrapper -->
                                 <div class="panel-heading">Formatação + Limpeza</div>
-                                
+
 								<!--
 								<div class="panel-body">
-                                    <h1><sup>R$</sup>70<small>,00</small></h1> 
+                                    <h1><sup>R$</sup>70<small>,00</small></h1>
                                 </div>
 								Plan Price -->
 
@@ -849,7 +849,7 @@
 
     <!--  Blog Section
     <div id="tf-blog">
-        <div class="container"> 
+        <div class="container">
             <div class="section-header">
                 <h2>Latest from the <span class="highlight"><strong>Blog</strong></span></h2>
                 <h5><em>We design and build functional and beautiful websites</em></h5>
@@ -857,45 +857,16 @@
             </div>
         </div>
 
-        <div id="blog-post" class="gray-bg"> 
+        <div id="blog-post" class="gray-bg">
             <div class="container">
 
-                <div class="row"> 
-                    <div class="col-md-6"> 
+                <div class="row">
+                    <div class="col-md-6">
 
                         <div class="post-wrap">
-                            <div class="media post"> 
-                                <div class="media-left"> 
+                            <div class="media post">
+                                <div class="media-left">
                                     <a href="#">
-                                      <img class="media-object" src="http://placehold.it/120x150" alt="..."> 
-                                    </a>
-                                </div>
-                                <div class="media-body">
-                                    <p class="small">January 14, 2015</p>
-                                    <a href="#">
-                                        <h5 class="media-heading"><strong>Vel donec et scelerisque vestibulum. Condimentum aliquam, mollit magna velit nec</strong></h5>
-                                    </a>
-                                    <p>Tempor vestibulum turpis id ligula mi mattis. Eget arcu vitae mauris amet odio. Diam nibh diam, quam elit, libero nostra ut. Pellentesque vehicula. Eget sed, dapibus </p>
-                                </div>
-                            </div>
-                            
-                            <div class="post-meta"> 
-                                <ul class="list-inline metas pull-left">
-                                    <li><a href="#">by Rudhi Design</a></li>
-                                    <li><a href="#">20 Comments</a></li>
-                                    <li><a href="#">Read More</a></li>
-                                </ul>
-                                <ul class="list-inline meta-detail pull-right"> 
-                                    <li><a href="#"><i class="fa fa-heart"></i></a> 50</li>
-                                    <li><i class="fa fa-eye"></i> 110</li>
-                                </ul>
-                            </div>
-                        </div>
-
-                        <div class="post-wrap"> 
-                            <div class="media post"> 
-                                <div class="media-left"> 
-                                    <a href="#"> 
                                       <img class="media-object" src="http://placehold.it/120x150" alt="...">
                                     </a>
                                 </div>
@@ -907,27 +878,56 @@
                                     <p>Tempor vestibulum turpis id ligula mi mattis. Eget arcu vitae mauris amet odio. Diam nibh diam, quam elit, libero nostra ut. Pellentesque vehicula. Eget sed, dapibus </p>
                                 </div>
                             </div>
-                            
-                            <div class="post-meta"> 
-                                <ul class="list-inline metas pull-left"> 
+
+                            <div class="post-meta">
+                                <ul class="list-inline metas pull-left">
                                     <li><a href="#">by Rudhi Design</a></li>
-                                    <li><a href="#">20 Comments</a></li> 
-                                    <li><a href="#">Read More</a></li> 
+                                    <li><a href="#">20 Comments</a></li>
+                                    <li><a href="#">Read More</a></li>
                                 </ul>
-                                <ul class="list-inline meta-detail pull-right"> 
-                                    <li><a href="#"><i class="fa fa-heart"></i></a> 50</li> 
+                                <ul class="list-inline meta-detail pull-right">
+                                    <li><a href="#"><i class="fa fa-heart"></i></a> 50</li>
                                     <li><i class="fa fa-eye"></i> 110</li>
                                 </ul>
                             </div>
                         </div>
 
-                       
+                        <div class="post-wrap">
+                            <div class="media post">
+                                <div class="media-left">
+                                    <a href="#">
+                                      <img class="media-object" src="http://placehold.it/120x150" alt="...">
+                                    </a>
+                                </div>
+                                <div class="media-body">
+                                    <p class="small">January 14, 2015</p>
+                                    <a href="#">
+                                        <h5 class="media-heading"><strong>Vel donec et scelerisque vestibulum. Condimentum aliquam, mollit magna velit nec</strong></h5>
+                                    </a>
+                                    <p>Tempor vestibulum turpis id ligula mi mattis. Eget arcu vitae mauris amet odio. Diam nibh diam, quam elit, libero nostra ut. Pellentesque vehicula. Eget sed, dapibus </p>
+                                </div>
+                            </div>
+
+                            <div class="post-meta">
+                                <ul class="list-inline metas pull-left">
+                                    <li><a href="#">by Rudhi Design</a></li>
+                                    <li><a href="#">20 Comments</a></li>
+                                    <li><a href="#">Read More</a></li>
+                                </ul>
+                                <ul class="list-inline meta-detail pull-right">
+                                    <li><a href="#"><i class="fa fa-heart"></i></a> 50</li>
+                                    <li><i class="fa fa-eye"></i> 110</li>
+                                </ul>
+                            </div>
+                        </div>
+
+
                     </div>
                 <div class="text-center">
                     <a href="#" class="btn btn-primary tf-btn color">Load More</a>
-                </div>                
+                </div>
             </div>
-        </div> 
+        </div>
     </div>
     ================================================== -->
 
@@ -952,7 +952,7 @@
                     <div class="row"> <!-- nested row -->
 
                         <!-- contact detail using col 4 -->
-                        <div class="col-md-4">  
+                        <div class="col-md-4">
                             <div class="contact-detail">
                                 <i class="fa fa-map-marker"></i>
                                 <h4>Rua Altamiro Di Bernardi - São José - Campinas - 760</h4> <!-- address -->
@@ -1001,14 +1001,14 @@
                                 </div>
                             </div>
 
-                            
+
                             <div class="col-md-4">
                                 <div class="form-group">
                                     <input type="text" autocomplete="off" class="form-control" placeholder="Telefone *" id="telefone" name= "telefone" required data-validation-required-message="Por favor insira seu telefone.">
                                     <p class="help-block text-danger"></p>
                                 </div>
                             </div>
-                        </div> 
+                        </div>
 
                         <!-- Message Text area -->
                         <div class="form-group"> <!-- Your email input -->
@@ -1025,24 +1025,24 @@
 
     </div>
 
-    <!-- Footer 
+    <!-- Footer
     ================================================== -->
     <div id="tf-footer">
         <div class="container"><!-- container -->
             <p class="pull-left">© 2017 Ativar Informática. Todos os direitos reservados.</p> <!-- copyright text here-->
             <ul class="list-inline social pull-right">
-                <li><a href="http://www.facebook.com/ativarinformatica" target="_blank"><i class="fa fa-facebook"></i></a></li> 
+                <li><a href="http://www.facebook.com/ativarinformatica" target="_blank"><i class="fa fa-facebook"></i></a></li>
 				<li><a href="http://www.github.com/rgsgonc" target="_blank"><i class="fa fa-github"></i></a></li>
-                <!--<li><a href="#"><i class="fa fa-twitter"></i></a></li> 
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li> 
-                <li><a href="#"><i class="fa fa-behance"></i></a></li> 
-                <li><a href="#"><i class="fa fa-linkedin"></i></a></li> 
-                <li><a href="#"><i class="fa fa-youtube"></i></a></li> 
+                <!--<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                <li><a href="#"><i class="fa fa-behance"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="#"><i class="fa fa-youtube"></i></a></li>
                 <li><a href="#"><i class="fa fa-pinterest"></i></a></li> -->
             </ul>
         </div><!-- end container -->
     </div>
-    
+
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -1071,7 +1071,7 @@
 
     <!-- Contact page-->
     <script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
-    <script type="text/javascript" src="js/contact.js"></script>
+    <!-- <script type="text/javascript" src="js/contact.js"></script> -->
 
     <!-- Javascripts
     ================================================== -->
