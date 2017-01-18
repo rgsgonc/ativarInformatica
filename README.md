@@ -7,5 +7,5 @@ Ou
 
 Rodar no seu terminal
 ```
-php -S localhost:${porta_desejada}
+php -S localhost:3636
 ```
